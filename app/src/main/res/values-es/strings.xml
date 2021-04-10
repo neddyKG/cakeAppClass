@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">cakeApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_login">Iniciar Sesión</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="password">Constraseña</string>
+    <string name="name">Nombre Completo</string>
+    <string name="button_sign_up">Crear Cuenta</string>
+</resources>
